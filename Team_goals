@@ -1,17 +1,25 @@
 [{
 		"position": "1",
-		"playerName": "Ecuador",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10788-ecuador-teamprofile",
+		"playerName": "England",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10805-england-teamprofile",
 		"match": "1",
-		"score": "1",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/ecuador-10788.png"
+		"score": "6",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/england-10805.png"
 	},
 	{
 		"position": "2",
+		"playerName": "Ecuador",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10788-ecuador-teamprofile",
+		"match": "1",
+		"score": "2",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/ecuador-10788.png"
+	},
+	{
+		"position": "3",
 		"playerName": "IR Iran",
 		"playerName_url": "https://sports.ndtv.com/football/teams/10797-iran-teamprofile",
 		"match": "1",
-		"score": "1",
+		"score": "2",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/iran-10797.png"
 	}
 ]
