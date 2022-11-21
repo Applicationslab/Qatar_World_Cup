@@ -1,161 +1,55 @@
 [{
 		"position": "1",
-		"playerName": "Angelo Preciado",
+		"playerName": "Harry Kane",
 		"playerName_url": "https://sports.ndtv.com/football/players/95920-harry-kane-playerprofile",
-		"playerImage": "https://api.sofascore.app/api/v1/player/881844/image",
 		"match": "1",
-		"score": "1"
+		"score": "2",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "2",
-		"playerName": "Romelu Lukaku",
-		"playerName_url": "https://sports.ndtv.com/football/players/95325-romelu-lukaku-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/romelu-lukaku-95325.png",
-		"match": "0",
-		"score": "0"
+		"playerName": "Raheem Sterling",
+		"playerName_url": "https://sports.ndtv.com/football/players/97284-raheem-sterling-playerprofile",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "3",
-		"playerName": "Antoine Griezmann",
-		"playerName_url": "https://sports.ndtv.com/football/players/95866-antoine-griezmann-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/antoine-griezmann-95866.png",
-		"match": "0",
-		"score": "0"
+		"playerName": "Luke Shaw",
+		"playerName_url": "https://sports.ndtv.com/football/players/98235-luke-shaw-playerprofile",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "4",
-		"playerName": "Cristiano Ronaldo",
-		"playerName_url": "https://sports.ndtv.com/football/players/90375-cristiano-ronaldo-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/cristiano-ronaldo-90375.png",
-		"match": "0",
-		"score": "0"
+		"playerName": "Harry Maguire",
+		"playerName_url": "https://sports.ndtv.com/football/players/97411-harry-maguire-playerprofile",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "5",
-		"playerName": "Denis Cheryshev",
-		"playerName_url": "https://sports.ndtv.com/football/players/98144-denis-cheryshev-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png",
-		"match": "0",
-		"score": "0"
+		"playerName": "Callum Eddie Graham Wilson",
+		"playerName_url": "https://sports.ndtv.com/football/players/95929-callum-wilson-playerprofile",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "6",
-		"playerName": "Kylian Mbappe Lottin",
-		"playerName_url": "https://sports.ndtv.com/football/players/109633-kylian-mbappe-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png",
-		"match": "0",
-		"score": "0"
+		"playerName": "Ali Gholizadeh",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "7",
-		"playerName": "Eden Hazard",
-		"playerName_url": "https://sports.ndtv.com/football/players/92363-eden-hazard-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png",
-		"match": "0",
-		"score": "0"
-	},
-	{
-		"position": "8",
-		"playerName": "Edinson Cavani",
-		"playerName_url": "https://sports.ndtv.com/football/players/93651-edinson-cavani-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png",
-		"match": "0",
-		"score": "0"
-	},
-	{
-		"position": "9",
-		"playerName": "Mario Mandzukic",
-		"playerName_url": "https://sports.ndtv.com/football/players/92842-mario-mandzukic-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/mario-mandzukic-92842.png",
-		"match": "0",
-		"score": "0"
-	},
-	{
-		"position": "10",
-		"playerName": "Ivan Perisic",
-		"playerName_url": "https://sports.ndtv.com/football/players/94334-ivan-perisic-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/ivan-perisic-94334.png",
-		"match": "0",
-		"score": "0"
-	},
-	{
-		"position": "11",
-		"playerName": "Artem Dzyuba",
-		"playerName_url": "https://sports.ndtv.com/football/players/91131-artem-dzyuba-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png",
-		"match": "0",
-		"score": "0"
-	},
-	{
-		"position": "12",
-		"playerName": "Diego Da Silva Costa",
-		"playerName_url": "https://sports.ndtv.com/football/players/92055-diego-costa-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/diego-costa-92055.png",
-		"match": "0",
-		"score": "0"
-	},
-	{
-		"position": "13",
-		"playerName": "Yerry Mina Gonzalez",
-		"playerName_url": "https://sports.ndtv.com/football/players/109761-yerry-mina-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png",
-		"match": "0",
-		"score": "0"
-	},
-	{
-		"position": "14",
-		"playerName": "Mohamed Salah Ghaly",
-		"playerName_url": "https://sports.ndtv.com/football/players/98867-mohamed-salah-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png",
-		"match": "0",
-		"score": "0"
-	},
-	{
-		"position": "15",
-		"playerName": "John Stones",
-		"playerName_url": "https://sports.ndtv.com/football/players/97486-john-stones-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png",
-		"match": "0",
-		"score": "0"
-	},
-	{
-		"position": "16",
-		"playerName": "Philippe Coutinho Correia",
-		"playerName_url": "https://sports.ndtv.com/football/players/96489-philippe-coutinho-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png",
-		"match": "0",
-		"score": "0"
-	},
-	{
-		"position": "17",
-		"playerName": "Luis Suarez",
-		"playerName_url": "https://sports.ndtv.com/football/players/90865-luis-suarez-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/luis-surez-90865.png",
-		"match": "0",
-		"score": "0"
-	},
-	{
-		"position": "18",
-		"playerName": "Sergio Aguero del Castillo",
-		"playerName_url": "https://sports.ndtv.com/football/players/90957-sergio-aguero-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/sergio-agero-90957.png",
-		"match": "0",
-		"score": "0"
-	},
-	{
-		"position": "19",
-		"playerName": "Mile Jedinak",
-		"playerName_url": "https://sports.ndtv.com/football/players/94703-mile-jedinak-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png",
-		"match": "0",
-		"score": "0"
-	},
-	{
-		"position": "20",
-		"playerName": "Neymar Da Silva Santos Junior",
-		"playerName_url": "https://sports.ndtv.com/football/players/96497-neymar-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png",
-		"match": "0",
-		"score": "0"
+		"playerName": "Angelo Preciado",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	}
 ]
