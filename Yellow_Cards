@@ -1,25 +1,126 @@
 [{
 		"position": "1",
+		"playerName": "Alireza Jahanbakhsh",
+		"playerName_url": "https://sports.ndtv.com/football/players/106414-alireza-jahanbakhsh-jirandeh-playerprofile",
 		"match": "1",
-		"score": "4",
-		"playerName": "Qatar",
-		"playerName_url": "https://sports.ndtv.com/football/teams/117087-qatar-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/qatar_638044088315928580.png"
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "2",
+		"playerName": "Gareth Bale",
+		"playerName_url": "https://sports.ndtv.com/football/players/92337-gareth-bale-playerprofile",
 		"match": "1",
-		"score": "2",
-		"playerName": "Ecuador",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10788-ecuador-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/ecuador-10788.png"
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "3",
+		"playerName": "Karim Boudiaf",
 		"match": "1",
-		"score": "2",
-		"playerName": "IR Iran",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10797-iran-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/iran-10797.png"
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "4",
+		"playerName": "Saad Abdulla M E Al Sheeb",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "5",
+		"playerName": "Idrissa Gueye",
+		"playerName_url": "https://sports.ndtv.com/football/players/95827-idrissa-gueye-playerprofile",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "6",
+		"playerName": "Tim Ream",
+		"playerName_url": "https://sports.ndtv.com/football/players/96070-tim-ream-playerprofile",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "7",
+		"playerName": "Morteza Pouraliganji",
+		"playerName_url": "https://sports.ndtv.com/football/players/109780-morteza-pouraliganji-playerprofile",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "8",
+		"playerName": "Nampalys Mendy",
+		"playerName_url": "https://sports.ndtv.com/football/players/96558-nampalys-mendy-playerprofile",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "9",
+		"playerName": "Akram Hassan Afif",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "10",
+		"playerName": "Almoez Ali",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "11",
+		"playerName": "Matthijs De Ligt",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "12",
+		"playerName": "Chris Mepham",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "13",
+		"playerName": "Weston McKennie",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "14",
+		"playerName": "Sergino Dest",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "15",
+		"playerName": "Jhegson Mendez",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "16",
+		"playerName": "Acosta Kellyn",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "17",
+		"playerName": "Moises Caicedo",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	}
 ]
