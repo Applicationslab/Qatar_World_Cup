@@ -13,5 +13,13 @@
 		"playerName_url": "https://sports.ndtv.com/football/teams/10797-iran-teamprofile",
 		"score": "1",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/iran-10797.png"
+	},
+	{
+		"position": "3",
+		"match": "1",
+		"playerName": "Wales",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10797-iran-teamprofile",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/wales-10822.png"
 	}
 ]
