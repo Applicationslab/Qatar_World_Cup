@@ -1,13 +1,80 @@
 [{
 		"position": "1",
 		"match": "1",
+		"score": "4",
+		"playerName": "Alexis Alexis",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "2",
+		"match": "1",
+		"score": "3",
+		"playerName": "Olivier Giroud",
+		"playerName_url": "https://sports.ndtv.com/football/players/93684-olivier-giroud-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/olivier-giroud-93684.png"
+	},
+	{
+		"position": "3",
+		"match": "1",
+		"score": "3",
+		"playerName": "Antonio Rudiger",
+		"playerName_url": "https://sports.ndtv.com/football/players/98454-antonio-rudiger-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "4",
+		"match": "1",
+		"score": "3",
+		"playerName": "Marco Willemsen",
+		"playerName_url": "https://sports.ndtv.com/football/players/109676-marco-asensio-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "5",
+		"match": "1",
+		"score": "3",
+		"playerName": "Dani Olmo",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "6",
+		"match": "1",
+		"score": "3",
+		"playerName": "Federico Valverde",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "7",
+		"match": "1",
+		"score": "3",
+		"playerName": "Vinicius Junior",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "8",
+		"match": "1",
+		"score": "3",
+		"playerName": "Jonathan David",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "9",
+		"match": "1",
+		"score": "2",
+		"playerName": "Hector Moreno Herrera",
+		"playerName_url": "https://sports.ndtv.com/football/players/91407-h%C3%A9ctor-moreno-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/hctor-moreno-91407.png"
+	},
+	{
+		"position": "10",
+		"match": "1",
 		"score": "2",
 		"playerName": "Virgil Van Dijk",
 		"playerName_url": "https://sports.ndtv.com/football/players/97482-virgil-van-dijk-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "2",
+		"position": "11",
 		"match": "1",
 		"score": "2",
 		"playerName": "Harry Maguire",
@@ -15,7 +82,44 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "3",
+		"position": "12",
+		"match": "1",
+		"score": "2",
+		"playerName": "Grzegorz Krychowiak",
+		"playerName_url": "https://sports.ndtv.com/football/players/92208-grzegorz-krychowiak-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "13",
+		"match": "1",
+		"score": "2",
+		"playerName": "Youssef Msakni",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "14",
+		"match": "1",
+		"score": "2",
+		"playerName": "Takuma Asano",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "15",
+		"match": "1",
+		"score": "2",
+		"playerName": "Kylian Mbappe Lottin",
+		"playerName_url": "https://sports.ndtv.com/football/players/109633-kylian-mbappe-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "16",
+		"match": "1",
+		"score": "2",
+		"playerName": "Richie Laryea",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "17",
 		"match": "1",
 		"score": "2",
 		"playerName": "Ismaila Sarr",
@@ -23,128 +127,24 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "4",
+		"position": "18",
 		"match": "1",
 		"score": "2",
 		"playerName": "Krepin Diatta",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "5",
-		"match": "1",
-		"score": "2",
-		"playerName": "Ahmadou Dieng",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "6",
-		"match": "1",
-		"score": "1",
-		"playerName": "Ben Davies",
-		"playerName_url": "https://sports.ndtv.com/football/players/98471-ben-davies-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "7",
-		"match": "1",
-		"score": "1",
-		"playerName": "Alireza Jahanbakhsh",
-		"playerName_url": "https://sports.ndtv.com/football/players/106414-alireza-jahanbakhsh-jirandeh-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "8",
-		"match": "1",
-		"score": "1",
-		"playerName": "Daley Blind",
-		"playerName_url": "https://sports.ndtv.com/football/players/94834-daley-blind-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "9",
-		"match": "1",
-		"score": "1",
-		"playerName": "Mohammed Muntari",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "10",
-		"match": "1",
-		"score": "1",
-		"playerName": "Abdelkarim Hassan Fadlalla",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "11",
-		"match": "1",
-		"score": "1",
-		"playerName": "Ahmad Nourollahi",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "12",
-		"match": "1",
-		"score": "1",
-		"playerName": "Mehdi Taremi",
-		"playerName_url": "https://sports.ndtv.com/football/players/109776-mehdi-taremi-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "13",
-		"match": "1",
-		"score": "1",
-		"playerName": "Steven Berghuis",
-		"playerName_url": "https://sports.ndtv.com/football/players/96530-steven-berghuis-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "14",
-		"match": "1",
-		"score": "1",
-		"playerName": "Saeid Ezatolahi Afagh",
-		"playerName_url": "https://sports.ndtv.com/football/players/109771-saeed-ezatolahi-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "15",
-		"match": "1",
-		"score": "1",
-		"playerName": "Akram Hassan Afif",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "16",
-		"match": "1",
-		"score": "1",
-		"playerName": "Pedro Miguel D D Correia",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "17",
-		"match": "1",
-		"score": "1",
-		"playerName": "Almoez Ali",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "18",
-		"match": "1",
-		"score": "1",
-		"playerName": "Ethan Ampadu",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
 		"position": "19",
 		"match": "1",
-		"score": "1",
-		"playerName": "Haji Wright",
+		"score": "2",
+		"playerName": "Jamal Musiala",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "20",
 		"match": "1",
-		"score": "1",
-		"playerName": "Kieffer Moore",
+		"score": "2",
+		"playerName": "Hwang In-beom",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	}
 ]
