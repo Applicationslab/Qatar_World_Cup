@@ -1,145 +1,161 @@
 [{
 		"position": "1",
-		"match": "1",
-		"score": "7",
 		"playerName": "Spain",
 		"playerName_url": "https://sports.ndtv.com/football/teams/10818-spain-teamprofile",
+		"match": "1",
+		"score": "7",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/spain-10818.png"
 	},
 	{
 		"position": "2",
-		"match": "1",
-		"score": "6",
 		"playerName": "England",
 		"playerName_url": "https://sports.ndtv.com/football/teams/10805-england-teamprofile",
+		"match": "2",
+		"score": "6",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/england-10805.png"
 	},
 	{
 		"position": "3",
-		"match": "1",
-		"score": "4",
 		"playerName": "France",
 		"playerName_url": "https://sports.ndtv.com/football/teams/10806-france-teamprofile",
+		"match": "2",
+		"score": "6",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/france-10806.png"
 	},
 	{
 		"position": "4",
-		"match": "1",
-		"score": "3",
-		"playerName": "Portugal",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10814-portugal-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/portugal-10814.png"
-	},
-	{
-		"position": "5",
-		"match": "1",
-		"score": "2",
-		"playerName": "Brazil",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10784-brazil-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/brazil-10784.png"
-	},
-	{
-		"position": "6",
-		"match": "1",
-		"score": "2",
-		"playerName": "Netherlands",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10811-netherlands-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/netherlands-10811.png"
-	},
-	{
-		"position": "7",
-		"match": "1",
-		"score": "2",
-		"playerName": "Japan",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10798-japan-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/japan-10798.png"
-	},
-	{
-		"position": "8",
-		"match": "1",
-		"score": "2",
-		"playerName": "Ecuador",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10788-ecuador-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/ecuador-10788.png"
-	},
-	{
-		"position": "9",
-		"match": "1",
-		"score": "2",
 		"playerName": "IR Iran",
 		"playerName_url": "https://sports.ndtv.com/football/teams/10797-iran-teamprofile",
+		"match": "2",
+		"score": "4",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/iran-10797.png"
 	},
 	{
-		"position": "10",
-		"match": "1",
-		"score": "2",
-		"playerName": "Ghana",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10834-ghana-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/ghana-10834.png"
+		"position": "5",
+		"playerName": "Netherlands",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10811-netherlands-teamprofile",
+		"match": "2",
+		"score": "3",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/netherlands-10811.png"
 	},
 	{
-		"position": "11",
-		"match": "1",
-		"score": "2",
-		"playerName": "Saudi Arabia",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10799-saudi-arabia-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/saudi-arabia-10799.png"
+		"position": "6",
+		"playerName": "Ecuador",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10788-ecuador-teamprofile",
+		"match": "2",
+		"score": "3",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/ecuador-10788.png"
 	},
 	{
-		"position": "12",
-		"match": "1",
-		"score": "1",
-		"playerName": "Australia",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10796-australia-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/australia-10796.png"
-	},
-	{
-		"position": "13",
-		"match": "1",
-		"score": "1",
-		"playerName": "Switzerland",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10820-switzerland-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/switzerland-10820.png"
-	},
-	{
-		"position": "14",
-		"match": "1",
-		"score": "1",
+		"position": "7",
 		"playerName": "Argentina",
 		"playerName_url": "https://sports.ndtv.com/football/teams/10783-argentina-teamprofile",
+		"match": "2",
+		"score": "3",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/argentina-10783.png"
 	},
 	{
-		"position": "15",
+		"position": "8",
+		"playerName": "Portugal",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10814-portugal-teamprofile",
 		"match": "1",
-		"score": "1",
-		"playerName": "United States",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10781-united-states-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/united-states-10781.png"
+		"score": "3",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/portugal-10814.png"
+	},
+	{
+		"position": "9",
+		"playerName": "Senegal",
+		"playerName_url": "https://sports.ndtv.com/football/teams/109530-senegal-men-team-teamprofile",
+		"match": "2",
+		"score": "3",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/senegal_636626132908028068.png"
+	},
+	{
+		"position": "10",
+		"playerName": "Brazil",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10784-brazil-teamprofile",
+		"match": "1",
+		"score": "2",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/brazil-10784.png"
+	},
+	{
+		"position": "11",
+		"playerName": "Australia",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10796-australia-teamprofile",
+		"match": "2",
+		"score": "2",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/australia-10796.png"
+	},
+	{
+		"position": "12",
+		"playerName": "Japan",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10798-japan-teamprofile",
+		"match": "1",
+		"score": "2",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/japan-10798.png"
+	},
+	{
+		"position": "13",
+		"playerName": "Ghana",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10834-ghana-teamprofile",
+		"match": "1",
+		"score": "2",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/ghana-10834.png"
+	},
+	{
+		"position": "14",
+		"playerName": "Saudi Arabia",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10799-saudi-arabia-teamprofile",
+		"match": "2",
+		"score": "2",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/saudi-arabia-10799.png"
+	},
+	{
+		"position": "15",
+		"playerName": "Poland",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10813-poland-teamprofile",
+		"match": "2",
+		"score": "2",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/poland-10813.png"
 	},
 	{
 		"position": "16",
+		"playerName": "Switzerland",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10820-switzerland-teamprofile",
 		"match": "1",
 		"score": "1",
-		"playerName": "Germany",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10807-germany-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/germany-10807.png"
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/switzerland-10820.png"
 	},
 	{
 		"position": "17",
-		"match": "1",
+		"playerName": "United States",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10781-united-states-teamprofile",
+		"match": "2",
 		"score": "1",
-		"playerName": "Belgium",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10802-belgium-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/belgium-10802.png"
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/united-states-10781.png"
 	},
 	{
 		"position": "18",
+		"playerName": "Germany",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10807-germany-teamprofile",
 		"match": "1",
 		"score": "1",
-		"playerName": "Wales",
-		"playerName_url": "https://sports.ndtv.com/football/teams/10822-wales-teamprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/wales-10822.png"
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/germany-10807.png"
+	},
+	{
+		"position": "19",
+		"playerName": "Belgium",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10802-belgium-teamprofile",
+		"match": "1",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/belgium-10802.png"
+	},
+	{
+		"position": "20",
+		"playerName": "Denmark",
+		"playerName_url": "https://sports.ndtv.com/football/teams/10804-denmark-teamprofile",
+		"match": "2",
+		"score": "1",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/denmark-10804.png"
 	}
 ]
