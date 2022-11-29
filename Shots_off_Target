@@ -3,7 +3,6 @@
 		"match": "2",
 		"score": "5",
 		"playerName": "Olivier Giroud",
-		"playerName_url": "https://sports.ndtv.com/football/players/93684-olivier-giroud-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/olivier-giroud-93684.png"
 	},
 	{
@@ -17,138 +16,126 @@
 		"position": "3",
 		"match": "2",
 		"score": "4",
-		"playerName": "Youssef Msakni",
+		"playerName": "Antonio Rudiger",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "4",
 		"match": "2",
 		"score": "4",
-		"playerName": "Abdelkarim Hassan Fadlalla",
+		"playerName": "Aleksandar Mitrovic",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "5",
 		"match": "2",
-		"score": "3",
-		"playerName": "Sardar Azmoun",
-		"playerName_url": "https://sports.ndtv.com/football/players/96901-sardar-azmoun-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/sardar-azmoun-96901.png"
+		"score": "4",
+		"playerName": "Youssef Msakni",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "6",
-		"match": "1",
-		"score": "3",
-		"playerName": "Antonio Rudiger",
-		"playerName_url": "https://sports.ndtv.com/football/players/98454-antonio-rudiger-playerprofile",
+		"match": "2",
+		"score": "4",
+		"playerName": "Abdelkarim Hassan Fadlalla",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "7",
-		"match": "1",
-		"score": "3",
-		"playerName": "Marco Willemsen",
-		"playerName_url": "https://sports.ndtv.com/football/players/109676-marco-asensio-playerprofile",
+		"match": "2",
+		"score": "4",
+		"playerName": "Takuma Asano",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "8",
 		"match": "2",
-		"score": "3",
-		"playerName": "Kylian Mbappe Lottin",
-		"playerName_url": "https://sports.ndtv.com/football/players/109633-kylian-mbappe-playerprofile",
+		"score": "4",
+		"playerName": "Marco Willemsen",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "9",
 		"match": "2",
-		"score": "3",
-		"playerName": "Ismaila Sarr",
-		"playerName_url": "https://sports.ndtv.com/football/players/109685-ismaila-sarr-playerprofile",
+		"score": "4",
+		"playerName": "Federico Valverde",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "10",
-		"match": "1",
+		"match": "2",
 		"score": "3",
-		"playerName": "Dani Olmo",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+		"playerName": "Sardar Azmoun",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/sardar-azmoun-96901.png"
 	},
 	{
 		"position": "11",
-		"match": "1",
+		"match": "2",
 		"score": "3",
-		"playerName": "Federico Valverde",
+		"playerName": "Junior Hoilett",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "12",
 		"match": "2",
 		"score": "3",
-		"playerName": "Mohamed Kanno",
-		"playerName_url": "https://sports.ndtv.com/football/players/109873-mohamed-kanno-playerprofile",
+		"playerName": "Kylian Mbappe Lottin",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "13",
-		"match": "1",
+		"match": "2",
 		"score": "3",
-		"playerName": "Vinicius Junior",
+		"playerName": "Ismaila Sarr",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "14",
-		"match": "1",
+		"match": "2",
 		"score": "3",
-		"playerName": "Jonathan David",
+		"playerName": "Dani Olmo",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "15",
 		"match": "2",
-		"score": "2",
-		"playerName": "Hector Moreno Herrera",
-		"playerName_url": "https://sports.ndtv.com/football/players/91407-h%C3%A9ctor-moreno-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/hctor-moreno-91407.png"
+		"score": "3",
+		"playerName": "Mohamed Kanno",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "16",
 		"match": "2",
-		"score": "2",
-		"playerName": "Lionel Messi",
-		"playerName_url": "https://sports.ndtv.com/football/players/90996-lionel-messi-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/lionel-messi-90996.png"
+		"score": "3",
+		"playerName": "Vinicius Junior",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "17",
 		"match": "2",
-		"score": "2",
-		"playerName": "Antoine Griezmann",
-		"playerName_url": "https://sports.ndtv.com/football/players/95866-antoine-griezmann-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/antoine-griezmann-95866.png"
+		"score": "3",
+		"playerName": "Jonathan David",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "18",
 		"match": "2",
-		"score": "2",
-		"playerName": "Virgil Van Dijk",
-		"playerName_url": "https://sports.ndtv.com/football/players/97482-virgil-van-dijk-playerprofile",
+		"score": "3",
+		"playerName": "Hwang In-beom",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "19",
 		"match": "2",
 		"score": "2",
-		"playerName": "Harry Maguire",
-		"playerName_url": "https://sports.ndtv.com/football/players/97411-harry-maguire-playerprofile",
+		"playerName": "Serge Gnabry",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "20",
 		"match": "2",
 		"score": "2",
-		"playerName": "Grzegorz Krychowiak",
-		"playerName_url": "https://sports.ndtv.com/football/players/92208-grzegorz-krychowiak-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+		"playerName": "Luis Suarez",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/luis-surez-90865.png"
 	}
 ]
