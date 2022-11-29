@@ -32,14 +32,21 @@
 	},
 	{
 		"position": "5",
-		"match": "1",
+		"match": "2",
+		"score": "4",
+		"playerName": "Cho Gue-sung",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "6",
+		"match": "2",
 		"score": "3",
 		"playerName": "Serge Gnabry",
 		"playerName_url": "https://sports.ndtv.com/football/players/99363-serge-gnabry-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "6",
+		"position": "7",
 		"match": "2",
 		"score": "3",
 		"playerName": "Sardar Azmoun",
@@ -47,7 +54,23 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/sardar-azmoun-96901.png"
 	},
 	{
-		"position": "7",
+		"position": "8",
+		"match": "2",
+		"score": "3",
+		"playerName": "Michy Batshuayi",
+		"playerName_url": "https://sports.ndtv.com/football/players/97313-michy-batshuayi-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "9",
+		"match": "2",
+		"score": "3",
+		"playerName": "Cristiano Ronaldo",
+		"playerName_url": "https://sports.ndtv.com/football/players/90375-cristiano-ronaldo-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/cristiano-ronaldo-90375.png"
+	},
+	{
+		"position": "10",
 		"match": "2",
 		"score": "3",
 		"playerName": "Robert Lewandowski",
@@ -55,14 +78,67 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/robert-lewandowski-94226.png"
 	},
 	{
-		"position": "8",
+		"position": "11",
+		"match": "2",
+		"score": "3",
+		"playerName": "Andrej Kramaric",
+		"playerName_url": "https://sports.ndtv.com/football/players/95728-andrej-kramaric-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "12",
+		"match": "2",
+		"score": "3",
+		"playerName": "Joshua Kimmich",
+		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/football/players/107358-Joshua%20Kimmich-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "13",
+		"match": "2",
+		"score": "3",
+		"playerName": "Bruno Fernandes",
+		"playerName_url": "https://sports.ndtv.com/football/players/99612-bruno-fernandes-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "14",
+		"match": "2",
+		"score": "3",
+		"playerName": "Marko Livaja",
+		"playerName_url": "https://sports.ndtv.com/football/players/96241-marko-livaja-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "15",
+		"match": "2",
+		"score": "3",
+		"playerName": "Dani Olmo",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "16",
+		"match": "2",
+		"score": "3",
+		"playerName": "Mohammed Kudus",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "17",
+		"match": "2",
+		"score": "3",
+		"playerName": "Raphinha Belloli",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "18",
 		"match": "2",
 		"score": "3",
 		"playerName": "Bukayo Saka",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "9",
+		"position": "19",
 		"match": "2",
 		"score": "2",
 		"playerName": "Ben Davies",
@@ -70,89 +146,11 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "10",
+		"position": "20",
 		"match": "2",
 		"score": "2",
 		"playerName": "Olivier Giroud",
 		"playerName_url": "https://sports.ndtv.com/football/players/93684-olivier-giroud-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/olivier-giroud-93684.png"
-	},
-	{
-		"position": "11",
-		"match": "1",
-		"score": "2",
-		"playerName": "Neymar Junior",
-		"playerName_url": "https://sports.ndtv.com/football/players/96497-neymar-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "12",
-		"match": "1",
-		"score": "2",
-		"playerName": "Michy Batshuayi",
-		"playerName_url": "https://sports.ndtv.com/football/players/97313-michy-batshuayi-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "13",
-		"match": "2",
-		"score": "2",
-		"playerName": "Antoine Griezmann",
-		"playerName_url": "https://sports.ndtv.com/football/players/95866-antoine-griezmann-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/antoine-griezmann-95866.png"
-	},
-	{
-		"position": "14",
-		"match": "1",
-		"score": "2",
-		"playerName": "Cristiano Ronaldo",
-		"playerName_url": "https://sports.ndtv.com/football/players/90375-cristiano-ronaldo-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/cristiano-ronaldo-90375.png"
-	},
-	{
-		"position": "15",
-		"match": "1",
-		"score": "2",
-		"playerName": "Ilkay Gundogan",
-		"playerName_url": "https://sports.ndtv.com/football/players/95103-ilkay-gundogan-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "16",
-		"match": "2",
-		"score": "2",
-		"playerName": "Gareth Bale",
-		"playerName_url": "https://sports.ndtv.com/football/players/92337-gareth-bale-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "17",
-		"match": "2",
-		"score": "2",
-		"playerName": "Youssef Msakni",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "18",
-		"match": "2",
-		"score": "2",
-		"playerName": "Mitchell Duke",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "19",
-		"match": "2",
-		"score": "2",
-		"playerName": "Andreas Cornelius",
-		"playerName_url": "https://sports.ndtv.com/football/players/98953-andreas-cornelius-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "20",
-		"match": "2",
-		"score": "2",
-		"playerName": "Adrien Rabiot",
-		"playerName_url": "https://sports.ndtv.com/football/players/98964-adrien-rabiot-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	}
 ]
