@@ -34,40 +34,78 @@
 		"position": "5",
 		"match": "2",
 		"score": "2",
-		"playerName": "Mehdi Taremi",
-		"playerName_url": "https://sports.ndtv.com/football/players/109776-mehdi-taremi-playerprofile",
+		"playerName": "Andrej Kramaric",
+		"playerName_url": "https://sports.ndtv.com/football/players/95728-andrej-kramaric-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "6",
-		"match": "1",
+		"match": "2",
 		"score": "2",
-		"playerName": "Richarlison De Andrade",
+		"playerName": "Álvaro Morata",
+		"playerName_url": "https://sports.ndtv.com/football/players/97089-%C3%A1lvaro-morata-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "7",
-		"match": "1",
+		"match": "2",
 		"score": "2",
-		"playerName": "Ferran Torres",
+		"playerName": "Mehdi Taremi",
+		"playerName_url": "https://sports.ndtv.com/football/players/109776-mehdi-taremi-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "8",
 		"match": "2",
 		"score": "2",
-		"playerName": "Cody Gakpo",
+		"playerName": "Bruno Fernandes",
+		"playerName_url": "https://sports.ndtv.com/football/players/99612-bruno-fernandes-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "9",
 		"match": "2",
 		"score": "2",
-		"playerName": "Bukayo Saka",
+		"playerName": "Richarlison De Andrade",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "10",
+		"match": "2",
+		"score": "2",
+		"playerName": "Ferran Torres",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "11",
+		"match": "2",
+		"score": "2",
+		"playerName": "Cody Gakpo",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "12",
+		"match": "2",
+		"score": "2",
+		"playerName": "Mohammed Kudus",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "13",
+		"match": "2",
+		"score": "2",
+		"playerName": "Bukayo Saka",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "14",
+		"match": "2",
+		"score": "2",
+		"playerName": "Cho Gue-sung",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "15",
 		"match": "2",
 		"score": "1",
 		"playerName": "Raheem Sterling",
@@ -75,81 +113,43 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "11",
-		"match": "1",
+		"position": "16",
+		"match": "2",
+		"score": "1",
+		"playerName": "Vincent Aboubakar",
+		"playerName_url": "https://sports.ndtv.com/football/players/96356-vincent-aboubakar-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/vincent-aboubakar-96356.png"
+	},
+	{
+		"position": "17",
+		"match": "2",
+		"score": "1",
+		"playerName": "Jean-Eric Choupo-Moting",
+		"playerName_url": "https://sports.ndtv.com/football/players/92358-eric-maxim-choupo-moting-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/eric-maxim-choupo-moting-92358.png"
+	},
+	{
+		"position": "18",
+		"match": "2",
 		"score": "1",
 		"playerName": "Michy Batshuayi",
 		"playerName_url": "https://sports.ndtv.com/football/players/97313-michy-batshuayi-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "12",
-		"match": "1",
+		"position": "19",
+		"match": "2",
 		"score": "1",
 		"playerName": "Cristiano Ronaldo",
 		"playerName_url": "https://sports.ndtv.com/football/players/90375-cristiano-ronaldo-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/cristiano-ronaldo-90375.png"
 	},
 	{
-		"position": "13",
-		"match": "1",
+		"position": "20",
+		"match": "2",
 		"score": "1",
 		"playerName": "Andre Ayew",
 		"playerName_url": "https://sports.ndtv.com/football/players/92366-andr%C3%A9-ayew-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "14",
-		"match": "1",
-		"score": "1",
-		"playerName": "Ilkay Gundogan",
-		"playerName_url": "https://sports.ndtv.com/football/players/95103-ilkay-gundogan-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "15",
-		"match": "2",
-		"score": "1",
-		"playerName": "Robert Lewandowski",
-		"playerName_url": "https://sports.ndtv.com/football/players/94226-robert-lewandowski-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/robert-lewandowski-94226.png"
-	},
-	{
-		"position": "16",
-		"match": "2",
-		"score": "1",
-		"playerName": "Gareth Bale",
-		"playerName_url": "https://sports.ndtv.com/football/players/92337-gareth-bale-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "17",
-		"match": "1",
-		"score": "1",
-		"playerName": "Breel Embolo",
-		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/football/players/107333-Breel%20Embolo-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "18",
-		"match": "2",
-		"score": "1",
-		"playerName": "Mohammed Muntari",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "19",
-		"match": "2",
-		"score": "1",
-		"playerName": "Salem Al Dawsari",
-		"playerName_url": "https://sports.ndtv.com/football/players/98276-salem-al-dossari-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "20",
-		"match": "1",
-		"score": "1",
-		"playerName": "Takuma Asano",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	}
 ]
