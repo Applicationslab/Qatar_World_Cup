@@ -10,18 +10,41 @@
 		"position": "2",
 		"match": "2",
 		"score": "2",
-		"playerName": "Jhegson Mendez",
+		"playerName": "Francisco Calvo",
+		"playerName_url": "https://sports.ndtv.com/football/players/97589-francisco-calvo-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "3",
 		"match": "2",
 		"score": "2",
-		"playerName": "Al Malki Malki",
+		"playerName": "Jhegson Mendez",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "4",
+		"match": "2",
+		"score": "2",
+		"playerName": "Al Malki Malki",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "5",
+		"match": "2",
+		"score": "2",
+		"playerName": "Amadou Onana",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "6",
+		"match": "2",
+		"score": "1",
+		"playerName": "Dejan Lovren",
+		"playerName_url": "https://sports.ndtv.com/football/players/94281-dejan-lovren-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/dejan-lovren-94281.png"
+	},
+	{
+		"position": "7",
 		"match": "2",
 		"score": "1",
 		"playerName": "Hector Herrera",
@@ -29,7 +52,7 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "5",
+		"position": "8",
 		"match": "2",
 		"score": "1",
 		"playerName": "Hector Moreno Herrera",
@@ -37,15 +60,23 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/hctor-moreno-91407.png"
 	},
 	{
-		"position": "6",
-		"match": "1",
+		"position": "9",
+		"match": "2",
+		"score": "1",
+		"playerName": "Celso Borges Mora",
+		"playerName_url": "https://sports.ndtv.com/football/players/92214-celso-borges-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "10",
+		"match": "2",
 		"score": "1",
 		"playerName": "Joel Campbell Samuels",
 		"playerName_url": "https://sports.ndtv.com/football/players/97760-joel-campbell-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "7",
+		"position": "11",
 		"match": "1",
 		"score": "1",
 		"playerName": "Martin Caceres",
@@ -53,15 +84,47 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "8",
-		"match": "1",
+		"position": "12",
+		"match": "2",
+		"score": "1",
+		"playerName": "Nicolas N'Koulou",
+		"playerName_url": "https://sports.ndtv.com/football/players/94171-nicolas-nkoulou-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/nicolas-nkoulou-94171.png"
+	},
+	{
+		"position": "13",
+		"match": "2",
+		"score": "1",
+		"playerName": "Luka Modric",
+		"playerName_url": "https://sports.ndtv.com/football/players/91429-luka-modric-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "14",
+		"match": "2",
+		"score": "1",
+		"playerName": "Leon Goretzka",
+		"playerName_url": "https://sports.ndtv.com/football/players/98943-leon-goretzka-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "15",
+		"match": "2",
+		"score": "1",
+		"playerName": "Sergio Burgos",
+		"playerName_url": "https://sports.ndtv.com/football/players/94365-sergio-busquets-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/sergio-busquets-94365.png"
+	},
+	{
+		"position": "16",
+		"match": "2",
 		"score": "1",
 		"playerName": "Andre Ayew",
 		"playerName_url": "https://sports.ndtv.com/football/players/92366-andr%C3%A9-ayew-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "9",
+		"position": "17",
 		"match": "2",
 		"score": "1",
 		"playerName": "Gareth Bale",
@@ -69,87 +132,26 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "10",
-		"match": "1",
+		"position": "18",
+		"match": "2",
 		"score": "1",
 		"playerName": "Nico Elvedi",
 		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/football/players/107376-Nico%20Elvedi-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "11",
+		"position": "19",
 		"match": "2",
 		"score": "1",
 		"playerName": "Karim Boudiaf",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "12",
+		"position": "20",
 		"match": "2",
 		"score": "1",
 		"playerName": "Aaron Mooy",
 		"playerName_url": "https://sports.ndtv.com/football/players/109813-aaron-mooy-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "13",
-		"match": "2",
-		"score": "1",
-		"playerName": "Nawaf Al Abed",
-		"playerName_url": "https://sports.ndtv.com/football/players/96582-nawaf-al-abid-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "14",
-		"match": "2",
-		"score": "1",
-		"playerName": "Salem Al Dawsari",
-		"playerName_url": "https://sports.ndtv.com/football/players/98276-salem-al-dossari-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "15",
-		"match": "2",
-		"score": "1",
-		"playerName": "Mohammed Al Owais",
-		"playerName_url": "https://sports.ndtv.com/football/players/109875-mohammed-al-owais-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "16",
-		"match": "1",
-		"score": "1",
-		"playerName": "Saad Abdulla M E Al Sheeb",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "17",
-		"match": "2",
-		"score": "1",
-		"playerName": "Mitchell Duke",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "18",
-		"match": "2",
-		"score": "1",
-		"playerName": "Andreas Cornelius",
-		"playerName_url": "https://sports.ndtv.com/football/players/98953-andreas-cornelius-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "19",
-		"match": "1",
-		"score": "1",
-		"playerName": "Thomas Meunier",
-		"playerName_url": "https://sports.ndtv.com/football/players/97737-thomas-meunier-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "20",
-		"match": "2",
-		"score": "1",
-		"playerName": "Taha Kenissi",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	}
 ]
