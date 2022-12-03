@@ -33,53 +33,79 @@
 	{
 		"position": "5",
 		"match": "3",
-		"score": "4",
-		"playerName": "Enner Valencia Lastra",
-		"playerName_url": "https://sports.ndtv.com/football/players/96114-enner-valencia-playerprofile",
+		"score": "5",
+		"playerName": "Álvaro Morata",
+		"playerName_url": "https://sports.ndtv.com/football/players/97089-%C3%A1lvaro-morata-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "6",
 		"match": "3",
-		"score": "4",
-		"playerName": "Mitchell Duke",
-		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/shots-on-target-player-statsdetail#",
+		"score": "5",
+		"playerName": "Cho Gue-sung",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "7",
-		"match": "2",
+		"match": "3",
 		"score": "4",
-		"playerName": "Cho Gue-sung",
-		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/shots-on-target-player-statsdetail#",
+		"playerName": "Serge Gnabry",
+		"playerName_url": "https://sports.ndtv.com/football/players/99363-serge-gnabry-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "8",
 		"match": "3",
 		"score": "4",
-		"playerName": "Julián Álvarez",
-		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/shots-on-target-player-statsdetail#",
+		"playerName": "Enner Valencia Lastra",
+		"playerName_url": "https://sports.ndtv.com/football/players/96114-enner-valencia-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "9",
 		"match": "3",
 		"score": "4",
-		"playerName": "Luis Magallon",
-		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/shots-on-target-player-statsdetail#",
+		"playerName": "Mitchell Duke",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "10",
-		"match": "2",
-		"score": "3",
-		"playerName": "Serge Gnabry",
-		"playerName_url": "https://sports.ndtv.com/football/players/99363-serge-gnabry-playerprofile",
+		"match": "3",
+		"score": "4",
+		"playerName": "Joshua Kimmich",
+		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/football/players/107358-Joshua%20Kimmich-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "11",
+		"match": "3",
+		"score": "4",
+		"playerName": "Dani Olmo",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "12",
+		"match": "3",
+		"score": "4",
+		"playerName": "Mohammed Kudus",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "13",
+		"match": "3",
+		"score": "4",
+		"playerName": "Julián Álvarez",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "14",
+		"match": "3",
+		"score": "4",
+		"playerName": "Luis Magallon",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "15",
 		"match": "3",
 		"score": "3",
 		"playerName": "Angel Di Maria",
@@ -87,7 +113,15 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/ngel-di-mara-91423.png"
 	},
 	{
-		"position": "12",
+		"position": "16",
+		"match": "3",
+		"score": "3",
+		"playerName": "Vincent Aboubakar",
+		"playerName_url": "https://sports.ndtv.com/football/players/96356-vincent-aboubakar-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/vincent-aboubakar-96356.png"
+	},
+	{
+		"position": "17",
 		"match": "3",
 		"score": "3",
 		"playerName": "Sardar Azmoun",
@@ -95,7 +129,7 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/sardar-azmoun-96901.png"
 	},
 	{
-		"position": "13",
+		"position": "18",
 		"match": "2",
 		"score": "3",
 		"playerName": "Michy Batshuayi",
@@ -103,59 +137,19 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "14",
-		"match": "2",
+		"position": "19",
+		"match": "3",
 		"score": "3",
 		"playerName": "Cristiano Ronaldo",
 		"playerName_url": "https://sports.ndtv.com/football/players/90375-cristiano-ronaldo-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/cristiano-ronaldo-90375.png"
 	},
 	{
-		"position": "15",
+		"position": "20",
 		"match": "3",
 		"score": "3",
-		"playerName": "Robert Lewandowski",
-		"playerName_url": "https://sports.ndtv.com/football/players/94226-robert-lewandowski-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/robert-lewandowski-94226.png"
-	},
-	{
-		"position": "16",
-		"match": "2",
-		"score": "3",
-		"playerName": "Andrej Kramaric",
-		"playerName_url": "https://sports.ndtv.com/football/players/95728-andrej-kramaric-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "17",
-		"match": "2",
-		"score": "3",
-		"playerName": "Wahbi Khazri",
-		"playerName_url": "https://sports.ndtv.com/football/players/109743-wahbi-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "18",
-		"match": "2",
-		"score": "3",
-		"playerName": "Joshua Kimmich",
-		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/football/players/107358-Joshua%20Kimmich-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "19",
-		"match": "2",
-		"score": "3",
-		"playerName": "Bruno Fernandes",
-		"playerName_url": "https://sports.ndtv.com/football/players/99612-bruno-fernandes-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "20",
-		"match": "2",
-		"score": "3",
-		"playerName": "Marko Livaja",
-		"playerName_url": "https://sports.ndtv.com/football/players/96241-marko-livaja-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+		"playerName": "Granit Xhaka",
+		"playerName_url": "https://sports.ndtv.com/football/players/96459-granit-xhaka-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/granit-xhaka-96459.png"
 	}
 ]
