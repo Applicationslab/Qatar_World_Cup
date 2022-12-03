@@ -10,12 +10,20 @@
 		"position": "2",
 		"match": "3",
 		"score": "3",
+		"playerName": "Álvaro Morata",
+		"playerName_url": "https://sports.ndtv.com/football/players/97089-%C3%A1lvaro-morata-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "3",
+		"match": "3",
+		"score": "3",
 		"playerName": "Marcus Rashford",
 		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/football/players/107367-Marcus%20Rashford-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "3",
+		"position": "4",
 		"match": "3",
 		"score": "3",
 		"playerName": "Kylian Mbappe Lottin",
@@ -23,14 +31,14 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "4",
+		"position": "5",
 		"match": "3",
 		"score": "3",
 		"playerName": "Cody Gakpo",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "5",
+		"position": "6",
 		"match": "2",
 		"score": "2",
 		"playerName": "Olivier Giroud",
@@ -38,7 +46,7 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/olivier-giroud-93684.png"
 	},
 	{
-		"position": "6",
+		"position": "7",
 		"match": "3",
 		"score": "2",
 		"playerName": "Lionel Messi",
@@ -46,7 +54,31 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/lionel-messi-90996.png"
 	},
 	{
-		"position": "7",
+		"position": "8",
+		"match": "3",
+		"score": "2",
+		"playerName": "Vincent Aboubakar",
+		"playerName_url": "https://sports.ndtv.com/football/players/96356-vincent-aboubakar-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/vincent-aboubakar-96356.png"
+	},
+	{
+		"position": "9",
+		"match": "3",
+		"score": "2",
+		"playerName": "Aleksandar Mitrovic",
+		"playerName_url": "https://sports.ndtv.com/football/players/99269-aleksandar-mitrovic-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "10",
+		"match": "3",
+		"score": "2",
+		"playerName": "Breel Embolo",
+		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/football/players/107333-Breel%20Embolo-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "11",
 		"match": "3",
 		"score": "2",
 		"playerName": "Salem Al Dawsari",
@@ -54,23 +86,22 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "8",
-		"match": "2",
+		"position": "12",
+		"match": "3",
 		"score": "2",
 		"playerName": "Andrej Kramaric",
 		"playerName_url": "https://sports.ndtv.com/football/players/95728-andrej-kramaric-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "9",
+		"position": "13",
 		"match": "2",
 		"score": "2",
-		"playerName": "Álvaro Morata",
-		"playerName_url": "https://sports.ndtv.com/football/players/97089-%C3%A1lvaro-morata-playerprofile",
+		"playerName": "Giorgian De Arrascaeta",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "10",
+		"position": "14",
 		"match": "3",
 		"score": "2",
 		"playerName": "Mehdi Taremi",
@@ -78,7 +109,14 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "11",
+		"position": "15",
+		"match": "3",
+		"score": "2",
+		"playerName": "Ritsu Doan",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "16",
 		"match": "2",
 		"score": "2",
 		"playerName": "Bruno Fernandes",
@@ -86,70 +124,31 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "12",
+		"position": "17",
+		"match": "2",
+		"score": "2",
+		"playerName": "Kai Havertz",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "18",
+		"match": "3",
+		"score": "2",
+		"playerName": "Niclas Fullkrug",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "19",
 		"match": "2",
 		"score": "2",
 		"playerName": "Richarlison De Andrade",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "13",
-		"match": "2",
-		"score": "2",
-		"playerName": "Ferran Torres",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "14",
-		"match": "2",
-		"score": "2",
-		"playerName": "Mohammed Kudus",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "15",
-		"match": "2",
-		"score": "2",
-		"playerName": "Bukayo Saka",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "16",
-		"match": "2",
-		"score": "2",
-		"playerName": "Cho Gue-sung",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "17",
-		"match": "2",
-		"score": "1",
-		"playerName": "Raheem Sterling",
-		"playerName_url": "https://sports.ndtv.com/football/players/97284-raheem-sterling-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "18",
-		"match": "2",
-		"score": "1",
-		"playerName": "Vincent Aboubakar",
-		"playerName_url": "https://sports.ndtv.com/football/players/96356-vincent-aboubakar-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/vincent-aboubakar-96356.png"
-	},
-	{
-		"position": "19",
-		"match": "2",
-		"score": "1",
-		"playerName": "Jean-Eric Choupo-Moting",
-		"playerName_url": "https://sports.ndtv.com/football/players/92358-eric-maxim-choupo-moting-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/eric-maxim-choupo-moting-92358.png"
-	},
-	{
 		"position": "20",
 		"match": "3",
-		"score": "1",
-		"playerName": "Mathew Leckie",
-		"playerName_url": "https://sports.ndtv.com/football/players/96170-mathew-leckie-playerprofile",
+		"score": "2",
+		"playerName": "Ferran Torres",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	}
 ]
