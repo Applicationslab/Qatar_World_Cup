@@ -1,22 +1,22 @@
 [{
 		"position": "1",
-		"match": "3",
-		"score": "9",
+		"match": "4",
+		"score": "11",
 		"playerName": "Lionel Messi",
 		"playerName_url": "https://sports.ndtv.com/football/players/90996-lionel-messi-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/lionel-messi-90996.png"
 	},
 	{
 		"position": "2",
-		"match": "3",
-		"score": "7",
+		"match": "4",
+		"score": "10",
 		"playerName": "Kylian Mbappe Lottin",
 		"playerName_url": "https://sports.ndtv.com/football/players/109633-kylian-mbappe-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "3",
-		"match": "3",
+		"match": "4",
 		"score": "6",
 		"playerName": "Marcus Rashford",
 		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/football/players/107367-Marcus%20Rashford-playerprofile",
@@ -24,6 +24,14 @@
 	},
 	{
 		"position": "4",
+		"match": "4",
+		"score": "5",
+		"playerName": "Memphis Depay",
+		"playerName_url": "https://sports.ndtv.com/football/players/97287-memphis-depay-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "5",
 		"match": "3",
 		"score": "5",
 		"playerName": "Salem Al Dawsari",
@@ -31,7 +39,7 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "5",
+		"position": "6",
 		"match": "3",
 		"score": "5",
 		"playerName": "Álvaro Morata",
@@ -39,14 +47,28 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "6",
+		"position": "7",
+		"match": "4",
+		"score": "5",
+		"playerName": "Christian Pulisic",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "8",
 		"match": "3",
 		"score": "5",
 		"playerName": "Cho Gue-sung",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "7",
+		"position": "9",
+		"match": "4",
+		"score": "5",
+		"playerName": "Julián Álvarez",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "10",
 		"match": "3",
 		"score": "4",
 		"playerName": "Serge Gnabry",
@@ -54,7 +76,7 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "8",
+		"position": "11",
 		"match": "3",
 		"score": "4",
 		"playerName": "Enner Valencia Lastra",
@@ -62,14 +84,22 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "9",
-		"match": "3",
+		"position": "12",
+		"match": "4",
+		"score": "4",
+		"playerName": "Robert Lewandowski",
+		"playerName_url": "https://sports.ndtv.com/football/players/94226-robert-lewandowski-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/robert-lewandowski-94226.png"
+	},
+	{
+		"position": "13",
+		"match": "4",
 		"score": "4",
 		"playerName": "Mitchell Duke",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "10",
+		"position": "14",
 		"match": "3",
 		"score": "4",
 		"playerName": "Joshua Kimmich",
@@ -77,79 +107,47 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "11",
+		"position": "15",
 		"match": "3",
 		"score": "4",
 		"playerName": "Dani Olmo",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "12",
+		"position": "16",
 		"match": "3",
 		"score": "4",
 		"playerName": "Mohammed Kudus",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "13",
+		"position": "17",
 		"match": "3",
 		"score": "4",
-		"playerName": "Julián Álvarez",
+		"playerName": "Bukayo Saka",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "14",
+		"position": "18",
 		"match": "3",
 		"score": "4",
 		"playerName": "Luis Magallon",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "15",
-		"match": "3",
-		"score": "3",
-		"playerName": "Angel Di Maria",
-		"playerName_url": "https://sports.ndtv.com/football/players/91423-%C3%A1ngel-di-mar%C3%ADa-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/ngel-di-mara-91423.png"
-	},
-	{
-		"position": "16",
-		"match": "3",
-		"score": "3",
-		"playerName": "Vincent Aboubakar",
-		"playerName_url": "https://sports.ndtv.com/football/players/96356-vincent-aboubakar-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/vincent-aboubakar-96356.png"
-	},
-	{
-		"position": "17",
-		"match": "3",
-		"score": "3",
-		"playerName": "Sardar Azmoun",
-		"playerName_url": "https://sports.ndtv.com/football/players/96901-sardar-azmoun-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/sardar-azmoun-96901.png"
-	},
-	{
-		"position": "18",
-		"match": "2",
-		"score": "3",
-		"playerName": "Michy Batshuayi",
-		"playerName_url": "https://sports.ndtv.com/football/players/97313-michy-batshuayi-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
 		"position": "19",
 		"match": "3",
 		"score": "3",
-		"playerName": "Cristiano Ronaldo",
-		"playerName_url": "https://sports.ndtv.com/football/players/90375-cristiano-ronaldo-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/cristiano-ronaldo-90375.png"
+		"playerName": "Olivier Giroud",
+		"playerName_url": "https://sports.ndtv.com/football/players/93684-olivier-giroud-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/olivier-giroud-93684.png"
 	},
 	{
 		"position": "20",
 		"match": "3",
 		"score": "3",
-		"playerName": "Granit Xhaka",
-		"playerName_url": "https://sports.ndtv.com/football/players/96459-granit-xhaka-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/granit-xhaka-96459.png"
+		"playerName": "Angel Di Maria",
+		"playerName_url": "https://sports.ndtv.com/football/players/91423-%C3%A1ngel-di-mar%C3%ADa-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/ngel-di-mara-91423.png"
 	}
 ]
