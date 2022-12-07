@@ -32,7 +32,7 @@
 	},
 	{
 		"position": "5",
-		"match": "3",
+		"match": "4",
 		"score": "3",
 		"playerName": "Álvaro Morata",
 		"playerName_url": "https://sports.ndtv.com/football/players/97089-%C3%A1lvaro-morata-playerprofile",
@@ -48,20 +48,34 @@
 	},
 	{
 		"position": "7",
+		"match": "3",
+		"score": "3",
+		"playerName": "Richarlison De Andrade",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "8",
 		"match": "4",
 		"score": "3",
 		"playerName": "Cody Gakpo",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "8",
+		"position": "9",
 		"match": "3",
 		"score": "3",
 		"playerName": "Bukayo Saka",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "9",
+		"position": "10",
+		"match": "3",
+		"score": "3",
+		"playerName": "Goncalo Ramos",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "11",
 		"match": "3",
 		"score": "2",
 		"playerName": "Vincent Aboubakar",
@@ -69,7 +83,7 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/vincent-aboubakar-96356.png"
 	},
 	{
-		"position": "10",
+		"position": "12",
 		"match": "4",
 		"score": "2",
 		"playerName": "Robert Lewandowski",
@@ -77,7 +91,7 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/robert-lewandowski-94226.png"
 	},
 	{
-		"position": "11",
+		"position": "13",
 		"match": "3",
 		"score": "2",
 		"playerName": "Aleksandar Mitrovic",
@@ -85,15 +99,15 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "12",
-		"match": "3",
+		"position": "14",
+		"match": "4",
 		"score": "2",
 		"playerName": "Breel Embolo",
 		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/football/players/107333-Breel%20Embolo-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "13",
+		"position": "15",
 		"match": "3",
 		"score": "2",
 		"playerName": "Salem Al Dawsari",
@@ -101,22 +115,22 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "14",
-		"match": "3",
+		"position": "16",
+		"match": "4",
 		"score": "2",
 		"playerName": "Andrej Kramaric",
 		"playerName_url": "https://sports.ndtv.com/football/players/95728-andrej-kramaric-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "15",
+		"position": "17",
 		"match": "2",
 		"score": "2",
 		"playerName": "Giorgian De Arrascaeta",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "16",
+		"position": "18",
 		"match": "3",
 		"score": "2",
 		"playerName": "Mehdi Taremi",
@@ -124,32 +138,18 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "17",
-		"match": "3",
+		"position": "19",
+		"match": "4",
 		"score": "2",
 		"playerName": "Ritsu Doan",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "18",
-		"match": "2",
-		"score": "2",
-		"playerName": "Bruno Fernandes",
-		"playerName_url": "https://sports.ndtv.com/football/players/99612-bruno-fernandes-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "19",
-		"match": "2",
-		"score": "2",
-		"playerName": "Kai Havertz",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "20",
 		"match": "3",
 		"score": "2",
-		"playerName": "Niclas Fullkrug",
+		"playerName": "Bruno Fernandes",
+		"playerName_url": "https://sports.ndtv.com/football/players/99612-bruno-fernandes-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	}
 ]
