@@ -9,21 +9,29 @@
 	{
 		"position": "2",
 		"match": "3",
+		"score": "3",
+		"playerName": "Bruno Fernandes",
+		"playerName_url": "https://sports.ndtv.com/football/players/99612-bruno-fernandes-playerprofile",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "3",
+		"match": "4",
 		"score": "2",
 		"playerName": "Ivan Perisic",
 		"playerName_url": "https://sports.ndtv.com/football/players/94334-ivan-perisic-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/ivan-perisic-94334.png"
 	},
 	{
-		"position": "3",
-		"match": "3",
+		"position": "4",
+		"match": "4",
 		"score": "2",
 		"playerName": "Jordi Ramos",
 		"playerName_url": "https://sports.ndtv.com/football/players/93973-jordi-alba-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/jordi-alba-93973.png"
 	},
 	{
-		"position": "4",
+		"position": "5",
 		"match": "3",
 		"score": "2",
 		"playerName": "Dusan Tadic",
@@ -31,7 +39,7 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "5",
+		"position": "6",
 		"match": "3",
 		"score": "2",
 		"playerName": "Andrija Zivkovic",
@@ -39,7 +47,7 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "6",
+		"position": "7",
 		"match": "4",
 		"score": "2",
 		"playerName": "Davy Klaassen",
@@ -47,15 +55,15 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "7",
-		"match": "2",
+		"position": "8",
+		"match": "3",
 		"score": "2",
-		"playerName": "Bruno Fernandes",
-		"playerName_url": "https://sports.ndtv.com/football/players/99612-bruno-fernandes-playerprofile",
+		"playerName": "Raphael Guerreiro",
+		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/football/players/107387-Raphael%20Guerreiro-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "8",
+		"position": "9",
 		"match": "4",
 		"score": "2",
 		"playerName": "Ousmane Dembele",
@@ -63,7 +71,7 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "9",
+		"position": "10",
 		"match": "4",
 		"score": "2",
 		"playerName": "Kylian Mbappe Lottin",
@@ -71,35 +79,55 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "10",
+		"position": "11",
 		"match": "4",
 		"score": "2",
 		"playerName": "Christian Pulisic",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "11",
-		"match": "3",
-		"score": "2",
-		"playerName": "Theo Hernandez",
+		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/assists-player-statsdetail#",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "12",
 		"match": "3",
 		"score": "2",
-		"playerName": "Phil Foden",
+		"playerName": "Theo Hernandez",
+		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/assists-player-statsdetail#",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "13",
-		"match": "4",
+		"match": "3",
 		"score": "2",
-		"playerName": "Denzel Dumfries",
+		"playerName": "Phil Foden",
+		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/assists-player-statsdetail#",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
 		"position": "14",
+		"match": "3",
+		"score": "2",
+		"playerName": "Vinicius Junior",
+		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/assists-player-statsdetail#",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "15",
+		"match": "3",
+		"score": "2",
+		"playerName": "Joao Felix",
+		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/assists-player-statsdetail#",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "16",
+		"match": "4",
+		"score": "2",
+		"playerName": "Denzel Dumfries",
+		"playerName_url": "https://sports.ndtv.com/fifa-world-cup-2022/stats/assists-player-statsdetail#",
+		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
+	},
+	{
+		"position": "17",
 		"match": "3",
 		"score": "1",
 		"playerName": "Serge Gnabry",
@@ -107,7 +135,7 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "15",
+		"position": "18",
 		"match": "2",
 		"score": "1",
 		"playerName": "Cesar Azpilicueta",
@@ -115,7 +143,7 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/csar-azpilicueta-92066.png"
 	},
 	{
-		"position": "16",
+		"position": "19",
 		"match": "2",
 		"score": "1",
 		"playerName": "Raheem Sterling",
@@ -123,35 +151,11 @@
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
 	},
 	{
-		"position": "17",
+		"position": "20",
 		"match": "3",
 		"score": "1",
 		"playerName": "Luis Suarez",
 		"playerName_url": "https://sports.ndtv.com/football/players/90865-luis-suarez-playerprofile",
 		"playerImage": "https://s.ndtvimg.com/images/entities/120/luis-surez-90865.png"
-	},
-	{
-		"position": "18",
-		"match": "4",
-		"score": "1",
-		"playerName": "Luke Shaw",
-		"playerName_url": "https://sports.ndtv.com/football/players/98235-luke-shaw-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "19",
-		"match": "3",
-		"score": "1",
-		"playerName": "Yeltsin Tejeda Valverde",
-		"playerName_url": "https://sports.ndtv.com/football/players/97763-yeltsin-tejeda-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/default-player.png"
-	},
-	{
-		"position": "20",
-		"match": "3",
-		"score": "1",
-		"playerName": "Angel Di Maria",
-		"playerName_url": "https://sports.ndtv.com/football/players/91423-%C3%A1ngel-di-mar%C3%ADa-playerprofile",
-		"playerImage": "https://s.ndtvimg.com/images/entities/120/ngel-di-mara-91423.png"
 	}
 ]
